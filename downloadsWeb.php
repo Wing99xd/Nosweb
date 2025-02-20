@@ -55,72 +55,42 @@
                 </ul>
             </nav>
         </header>
+        <!-- Main -->
+		<article id="main">
+			<header>
+				<h2>Download</h2>
+			</header>
+			<section class="wrapper style5">
+				<div class="inner">
+					<section class="wrapper style5">
+						<div class="inner">
 
-        <!-- Banner -->
-        <section id="banner">
-            <div class="inner">
-                <h2>Nostale</h2>
-                <p>Dive into a mesmerizing world of limitless adventures.<br />
-                    Uncover thrilling features crafted to push your skills and ignite your imagination.<br /></p>
-                <ul class="actions special">
-                    <li><a href="shopWeb.php" class="button primary">Shop</a></li>
-                    <li><a href="downloadWeb.php" class="button primary">Download</a></li>
-                </ul>
-            </div>
-            <a href="#one" class="more scrolly">Learn More</a>
-        </section>
 
-        <!-- One -->
-        <section id="one" class="wrapper style1 special">
-            <div class="inner">
-                <header class="major">
-                    <h2>Discover the magic of <br />
-                    endlessly transforming characters!</h2>
-                    <p>This game has the following characters:<br />
-                    Adventurer, Swordman, Archer, Mage, Martial Artist</p>
-                </header>
-                <ul class="icons major">
-                    <li><img src="images/Swordman.png" style="width: 220px; height: 200px;"></li>
-                    <li><img src="images/Archer.png" style="width: 220px; height: 200px;"></li>
-                    <li><img src="images/Mage.png" style="width: 220px; height: 200px;"></li>
-                </ul>
-            </div>
-        </section>
-
-        <!-- Two -->
-        <section id="two" class="wrapper style3 special">
-            <div class="inner">
-                <header class="major">
-                    <h2>Join our community</h2>
-                    <p>Be part of a community full of cool players like you!</p>
-                </header>
-                <ul class="features">
-                    <li class="icon brands fa-youtube">
-                        <h3>Youtube</h3>
-                        <p>Watch our youtube, there are exciting videos.</p>
-                    </li>
-                    <li class="icon brands fa-discord">
-                        <h3>Discord</h3>
-                        <p>Join discord and communicate together.</p>
-                    </li>
-                </ul>
-            </div>
-        </section>
-
-        <!-- CTA -->
-        <section id="cta" class="wrapper style4">
-            <div class="inner">
-                <header>
-                    <h2>Contact Us</h2>
-                    <p>If you have any questions contact us via discord or the website.<br />
-                        Discord link :</p>
-                </header>
-                <ul class="actions stacked">
-                    <li><a href="#" class="button fit primary">Activate</a></li>
-                    <li><a href="#" class="button fit">Learn More</a></li>
-                </ul>
-            </div>
-        </section>
+							<div class="me-2 flex h-[65px] w-[65px] justify-center"><img alt="Step 1" loading="lazy"
+									width="65" height="65" decoding="async" data-nimg="1" img src="images/no1.png"
+									style="color: transparent;"></div>
+							<div class="flex flex-col justify-center"></div>
+							<div class="text-2xl font-medium text-[#E6E6E6]">Download Full Client</div>
+							<div class="text-base font-normal text-[#E6E6E6]">Unzip the client wherever you want</div>
+							<br>
+							<div class="me-2 flex h-[65px] w-[65px] justify-center"><img alt="Step 2" loading="lazy"
+									width="65" height="65" decoding="async" data-nimg="1" img src="images/no2.png"
+									style="color: transparent;"></div>
+							<div class="flex flex-col justify-center"></div>
+							<div class="text-2xl font-medium text-[#E6E6E6]">Run The Launcher</div>
+							<div class="text-base font-normal text-[#E6E6E6]">Launch the Launcher and wait for the
+								updates to
+								finish</div><br>
+							<div class="me-2 flex h-[65px] w-[65px] justify-center"><img alt="Step 3" loading="lazy"
+									width="65" height="65" decoding="async" data-nimg="1" img src="images/no3.png"
+									style="color: transparent;"></div>
+							<div class="flex flex-col justify-center"></div>
+							<div class="text-2xl font-medium text-[#E6E6E6]">Ready to Play!</div>
+							<div class="text-base font-normal text-[#E6E6E6]">Enter the game from the Launcher and play!
+							</div><br>
+						</div>
+					</section>
+		</article>
 
         <!-- Footer -->
         <footer id="footer">
